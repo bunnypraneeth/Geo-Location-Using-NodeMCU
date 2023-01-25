@@ -9,6 +9,6 @@ OLED SCREEN
 CONNECTING WIRES
 
 
-Chnages to do in the code:
+Changes to do in the code:
 Take a Google API KEY from google and iclude it in the code at googleapikey sppace.Then add the ssid name and password and a email in the blynk part.
 You are ready to go.Dump the code into the module and enjoy the fun.
